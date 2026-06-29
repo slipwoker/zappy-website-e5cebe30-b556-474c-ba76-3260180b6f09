@@ -1,0 +1,83 @@
+# מעיונה — Generative Engine Optimization Map
+
+> A social platform or service focused on helping people meet new friends. The core purpose is facilitating genuine human connections and friendships, likely targeting individuals who want to expand their social circle.
+
+---
+
+## Pages
+
+### בית
+https://-e5cebe30.zappy5.app
+מעיונה היא הפלטפורמה החברתית שמחברת בין אנשים ליצירת חברויות אמיתיות. הצטרפו עוד היום והתחילו להרחיב את מעגל החברים שלכם בדרך טבעית ומשמעותית.
+
+### תכונות
+https://-e5cebe30.zappy5.app/features
+הכירו את התכונות החכמות של מעיונה: התאמה אישית, קבוצות עניין ושיחות משמעותיות. כל מה שצריך כדי למצוא חברים שמתאימים לכם באמת, במקום אחד נוח ומזמין.
+
+### אודות
+https://-e5cebe30.zappy5.app/about
+מעיונה נולדה מתוך אמונה שכולם ראויים לחברויות כנות. גלו את החזון שלנו ליצירת קהילה תומכת, איך אנחנו פועלים ולמה דווקא אנחנו יכולים לשנות את הדרך בה אתם פוגשים אנשים.
+
+### צור קשר
+https://-e5cebe30.zappy5.app/contact
+יש לכם שאלה, רעיון או סתם בא לכם להגיד שלום? צרו קשר עם צוות מעיונה. אנחנו כאן כדי לעזור לכם למצוא את החברים שמחכים לכם, אז אל תהססו לכתוב לנו עוד היום.
+
+### תודה שפנית אלינו
+https://-e5cebe30.zappy5.app/thank-you
+מעיונה - תודה שפנית אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-e5cebe30.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-e5cebe30.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-e5cebe30.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-e5cebe30.zappy5.app/contact
+- Endpoint: https://-e5cebe30.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מעיונה
+A social platform or service focused on helping people meet new friends. The core purpose is facilitating genuine human connections and friendships, likely targeting individuals who want to expand their social circle.
+
+## Target Audience
+- אנשים שרוצים להכיר חברים חדשים
+- פרפרי חברה
+- מקצוענים שעתיקים
+- סטודנטים שנה ראשונה
+
+## Industry
+Social Networking
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-e5cebe30.zappy5.app/sitemap.xml
+- Robots: https://-e5cebe30.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-e5cebe30.zappy5.app/llms-full.txt
